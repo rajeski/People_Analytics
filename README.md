@@ -20,3 +20,23 @@ Employee Satisfaction, Years At Company, Evaluation are the biggest factors rega
 7. More than 1/2 of employees with 4 and 5 years tenure left the company.
 8. An average evaluation of roughly 70% meant an employee was likely to stay (even with difference project counts); the data skews towards a high turnover rate after 3 projects or two projects and a lower employee evaluation; employees with more than 3 projects and higher employee evaluations also had higher attrition rates. 
 9. Using a Random Forest was the most accurate for data modeling purposes.
+
+Suggestions: 
+
+Use the Kirkpatrick Evaluation Model as part of conducting a Root-cause Analysis 
+
+1. Reaction - Conduct a company-wide survey of all employees
+2. Learning - Based on the survey's results implement on-the-job training aimed at reducing attrition rates
+3. Behavior - Monitor if desired improvements are being incorporated or if there is still cultural resistance
+4. Results - Reduced employee turnover; increased employee evaluation scores 
+
+The above should center on, what are the knowledge, motivation, and organizational solutions to these barriers?
+
+Areas to address include: 
+
+1. Overall attrition-rates
+2. Sales, Technical and Support turnover rates, i.e., KPI's; Salary; Management; Career Mobility; finding the possible causes / solutions?
+3. Project-related turnover rates; lack of support; level of difficulties; timelines; again, finding the possible causes / solutions?
+4. Employee satisfaction; what (if anything) is being done about this? Re-assess management (including Human Resources' policies to find the possible areas where this can be addressed and improved).
+5. Employee retention, i.e., in the 4 to 5 year-segment means knowledge, motivation, and organizational is being lost (aside from the people who left with such).
+6. Examining why project count; employee evaluation and attrition are correlated and determining causation.
