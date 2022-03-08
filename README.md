@@ -32,12 +32,6 @@ Use the Kirkpatrick Evaluation Model as part of conducting a Root-cause Analysis
 
 The above should center on, what are the knowledge, motivation, and organizational solutions to these barriers?
 
-References: 
-
-Clark, R. E., & Estes, F. (2008). Turning research into results: A guide to selecting the right performance solutions. Atlanta, GA: CEP Press.
-
-Kirkpatrick, J. D., & Kirkpatrick, W. K. (2016). Kirkpatrick's four levels of training evaluation. Alexandria, VA: ATD Press.
-
 Areas to address include: 
 
 1. Overall attrition-rates
@@ -46,3 +40,9 @@ Areas to address include:
 4. Employee satisfaction; what (if anything) is being done about this? Re-assess management (including Human Resources' policies to find the possible areas where this can be addressed and improved).
 5. Employee retention, i.e., in the 4 to 5 year-segment means knowledge, motivation, and organizational is being lost (aside from the people who left with such).
 6. Examining why project count; employee evaluation and attrition are correlated and determining causation.
+
+# References: 
+
+Clark, R. E., & Estes, F. (2008). Turning research into results: A guide to selecting the right performance solutions. Atlanta, GA: CEP Press.
+
+Kirkpatrick, J. D., & Kirkpatrick, W. K. (2016). Kirkpatrick's four levels of training evaluation. Alexandria, VA: ATD Press.
