@@ -32,6 +32,12 @@ Use the Kirkpatrick Evaluation Model as part of conducting a Root-cause Analysis
 
 The above should center on, what are the knowledge, motivation, and organizational solutions to these barriers?
 
+References: 
+
+Clark, R. E., & Estes, F. (2008). Turning research into results: A guide to selecting the right performance solutions. Atlanta, GA: CEP Press.
+
+Kirkpatrick, J. D., & Kirkpatrick, W. K. (2016). Kirkpatrick's four levels of training evaluation. Alexandria, VA: ATD Press.
+
 Areas to address include: 
 
 1. Overall attrition-rates
