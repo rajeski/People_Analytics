@@ -41,6 +41,12 @@ Areas to address include:
 5. Employee retention, i.e., in the 4 to 5 year-segment means knowledge, motivation, and organizational is being lost (aside from the people who left with such).
 6. Examining why project count; employee evaluation and attrition are correlated and determining causation.
 
+# Libraries: 
+
+https://matplotlib.org/
+
+https://numpy.org/
+
 # References: 
 
 Clark, R. E., & Estes, F. (2008). Turning research into results: A guide to selecting the right performance solutions. Atlanta, GA: CEP Press.
