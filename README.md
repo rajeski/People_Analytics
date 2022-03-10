@@ -43,15 +43,13 @@ Areas to address include:
 
 # Libraries: 
 
-[go](https://matplotlib.org/){:target="_blank" rel="noopener"}
+Matplotlib - [go](https://matplotlib.org/){:target="_blank" rel="noopener"}
 
-https://matplotlib.org/
+Numpy - [go](https://numpy.org/){:target="_blank" rel="noopener"}
 
-https://numpy.org/
+Pandas - [go](https://pandas.pydata.org){:target="_blank" rel="noopener"}
 
-https://pandas.pydata.org
-
-https://seaborn.pydata.org
+Seaborn - [go](https://seaborn.pydata.org){:target="_blank" rel="noopener"}
 
 # References: 
 
