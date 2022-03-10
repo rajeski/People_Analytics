@@ -47,6 +47,10 @@ https://matplotlib.org/
 
 https://numpy.org/
 
+https://pandas.pydata.org
+
+https://seaborn.pydata.org
+
 # References: 
 
 Clark, R. E., & Estes, F. (2008). Turning research into results: A guide to selecting the right performance solutions. Atlanta, GA: CEP Press.
