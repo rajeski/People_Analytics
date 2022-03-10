@@ -65,6 +65,7 @@ Institutional-inertia, e.g., 'this is the way we have always done it, etc.' is a
 
 Examples include; 
 
-Compensation - examining pay-disparities 
-Mentorship - are new employees assigned tenured staff?
-Promotions - what tangible career advancement opportunities does the firm offer?
+1. Compensation - examining pay-disparities 
+2. Mentorship - are new employees assigned tenured staff?
+3. Promotions - what tangible career advancement opportunities does the firm offer?
+4. Management - has a toxic work environment been ignored, e.g., in the Sales, Technical and Support Departments?
