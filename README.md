@@ -61,4 +61,10 @@ Kirkpatrick, J. D., & Kirkpatrick, W. K. (2016). Kirkpatrick's four levels of tr
 
 # Addendum: 
 
-Institutional-inertia and 'this is the way we have always done it, etc.' is arguably a major reason why some of the reasons why these finding (unfortunately) are unsurprising. 
+Institutional-inertia, e.g., 'this is the way we have always done it, etc.' is arguably a major reason for some of the reasons why these findings (unfortunately) are unsurprising. 
+
+Examples include; 
+
+Compensation - examining pay-disparities 
+Mentorship - are new employees assigned tenured staff?
+Promotions - what tangible career advancement opportunities does the firm offer?
