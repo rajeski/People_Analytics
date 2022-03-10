@@ -79,7 +79,7 @@ People Analytics -
 6. Attrition / Retention 
 7. Employee Wellness 
 
-Currently, it seems points 1, 3, 4, 5, 6 and 7 all need detailed, Root Cause Analysis with point 2 being set aside from now (although it could also be an issue).
+Currently, it seems points 1, 3, 4, 5, 6 and 7 all need detailed, Root-cause Analysis with point 2 being set aside from now (although it could also be an issue influencing attrition).
 
 Proposed Preliminary Discussion with Management would be focused on - 
 
