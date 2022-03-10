@@ -5,8 +5,8 @@
 1. In a business-setting, consult with organizational stakeholders to determine the focus and scope of the project.
 2. Set timeframe(s) for deliverables. 
 3. Provide (regular) status updates 
-4. Share initial findings with the Executive Team, e.g., Cost-benefit Analysis including estimates on maintaining status quo versus change management initiatives.
-5. Upon approval, re-purpose intial findings to be shared with Technical and/or Non-technical staff.  
+4. Share initial findings with the Executive Team, e.g., Cost-benefit Analysis including estimates on maintaining status quo versus Change Management initiatives.
+5. Upon approval, re-purpose initial findings to be shared with Technical and/or Non-technical staff.  
 
 # Objective(s)
 1. Understand what are the factors contributing to employee turnover. 
