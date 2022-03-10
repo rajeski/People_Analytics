@@ -1,6 +1,6 @@
 # People Analytics, Human Resources Turnover
 
-## Goal(s)
+# Goal(s)
 1. Understand what are the factors contribute to employee turnover. 
 2. Create a model to predict if a certain employee will leave or stay.
 
@@ -58,3 +58,7 @@ Clark, R. E., & Estes, F. (2008). Turning research into results: A guide to sele
 Hofstede, G. H. (2001). Culture's consequences: Comparing values, behaviors, institutions, and organizations across nations (2nd ed.). Thousand Oaks, CA: Sage Publications.
 
 Kirkpatrick, J. D., & Kirkpatrick, W. K. (2016). Kirkpatrick's four levels of training evaluation. Alexandria, VA: ATD Press.
+
+# Addendum: 
+
+Institutional-inertia and 'this is the way we have always done it, etc.' is arguably a major reason why some of the reasons why these finding (unfortunately) are unsurprising. 
