@@ -1,8 +1,16 @@
 # People Analytics, Human Resources Turnover
 
-# Goal(s)
+# Preliminary Work 
+
+1. In a business-setting, consult with organizational stakeholders to determine the focus and scope of the project.
+2. Set timeframe(s) for deliverables. 
+3. Provide (regular) status updates 
+4. Share initial findings with the Executive Team, e.g., Cost-benefit Analysis including estimates on maintaining status quo versus change management initiatives.
+5. Upon approval, re-purpose intial findings to be shared with Technical and/or Non-technical staff.  
+
+# Objective(s)
 1. Understand what are the factors contributing to employee turnover. 
-2. Create a model to predict if a certain employee will leave or stay.
+2. Create a predictive model to determine if a certain employee (type) will leave or stay.
 
 # Analysis
 Examined overall employee satisfaction, tenure, and evaluation to determine if they are/were the three main influences determining staff departures.
@@ -75,7 +83,11 @@ Currently, it seems points 1, 3, 4, 5, 6 and 7 all need detailed, Root Cause Ana
 
 Proposed Preliminary Discussion with Management would be focused on - 
 
-Institutional-inertia, e.g., 'this is the way we have always done it, etc.' is, currently, arguably a reason why these findings (unfortunately) are unsurprising. 
+Institutional-inertia, e.g., 'this is the way we have always done it, etc.' 
+
+Post-findings Discussion would be focused on - 
+
+Reason why these findings (unfortunately) are unsurprising. 
 
 Examples include; 
 
@@ -83,3 +95,4 @@ Examples include;
 2. Mentorship - are new employees assigned tenured staff to help them to become long-term / successful employees?
 3. Promotions - what tangible career advancement opportunities does the company offer?
 4. Management - has a toxic work environment been ignored, e.g., in the Sales, Technical and Support Departments?
+5. Incentives - (classic) carrot versus stick management, i.e., Sales (unrealistic targets); Technical (issues with product releases) and Support (are bugs and/or other issues being reported but ignored?) 
