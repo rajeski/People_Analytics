@@ -2,7 +2,7 @@
 
 # Preliminary Work 
 
-1. In a business-setting, consult with organizational stakeholders to determine the focus and scope of the project.
+1. In a business-setting, an initial consultation with organizational stakeholders would occur to determine the focus and scope of the project.
 2. Set timeframe(s) for deliverables. 
 3. Provide (regular) status updates 
 4. Share initial findings with the Executive Team, e.g., Cost-benefit Analysis including estimates on maintaining status quo versus Change Management initiatives.
@@ -58,6 +58,8 @@ Numpy
 Pandas 
 
 Seaborn
+
+Scikit 
 
 # References: 
 
