@@ -51,15 +51,15 @@ Areas to address include:
 
 # Libraries: 
 
-Matplotlib
+Matplotlib (data visualizations)
 
-Numpy 
+Numpy (mathematics)
 
-Pandas 
+Pandas (data analysis)
 
-Seaborn
+Seaborn (data visualization)
 
-Scikit 
+Scikit-learn (predictive analysis)
 
 # References: 
 
