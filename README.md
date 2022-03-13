@@ -2,7 +2,7 @@
 
 # Mindset
 
-1. No matter how 'data-centric' or 'data-driven' any given organization may claim to be, data is only as insightful as the willingness to look at it as objectively as possible, i.e., if management asserts anything along the lines of, "this is way we have always done things around here" and/or "while so-and-so may be rough around the edges, they are a top-performer and cannot be replaced", etc., it should give pause that they forces of institutional-inertia are entrenched. And, depending on how deep-entrenched, they might just make the 'data' or findings therein moot.
+1. No matter how 'data-centric' or 'data-driven' any given organization may claim to be, data is only as insightful as the willingness to look at it as objectively as possible, i.e., if management asserts anything along the lines of, "this is way we have always done things around here" and/or "while so-and-so may be rough around the edges, they are a top-performer and cannot be replaced", etc., it should give pause the forces of institutional-inertia are likely entrenched. And, depending on how deeply-entrenched, they might just make the resulting 'data' or findings moot.
 
 # Preliminary Work 
 
