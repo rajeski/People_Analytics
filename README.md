@@ -4,7 +4,7 @@
 
 1. Regardless of how 'data-centric' or 'data-driven' any given organization may claim to be, data is only as insightful as the willingness to look at it as objectively as possible, i.e., if management asserts anything along the lines of, "this is way we have always done things around here" and/or "while so-and-so may be rough around the edges, they are a top-performer and cannot be replaced", etc., it should give pause the forces of institutional-inertia are likely entrenched. And, depending on how deeply-entrenched, they might just make the resulting 'data' or findings moot.
 
-# Regarding the 'hiring is broken' narrative - 
+# 'Data-centricism' 
 
 2. Despite the current 'we are a data-centric' spin any organization may claim to be or spin, data is still data. In order to maximize data's usefulness, meaning must be derived to positively impact real-world issues, i.e., involving people in actual problem-solving to utilize and apply (said) data's usefulness. The companies hiring based on what employees seek (amongst others 'perks') from permanent work-from-home options to child care support to flex-time to up-skilling to better work-life balance, etc. based on the data verifying some of these quality of life issues either currently are and/or will be truly 'data-driven'.
 
