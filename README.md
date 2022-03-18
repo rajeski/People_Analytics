@@ -6,7 +6,7 @@
 
 # Regarding the 'hiring is broken' narrative - 
 
-2. No matter how 'data-centric' any organization may claim to be, data is still data. In order to maximize data's usefulness, meaning must be derived to positively impact real-world issues, i.e., involving people in actual problem-solving to utilize and apply (said) data's usefulness. The companies hiring based on what employees seek (amongst others 'perks') from permanent work-from-home options to child care support to flex-time to up-skilling to better work-life balance, etc. based on the data verifying some of these quality of life issues either currently are and/or will be truly 'data-driven'.
+2. Regardless of how 'data-centric' any organization may claim to be, data is still data. In order to maximize data's usefulness, meaning must be derived to positively impact real-world issues, i.e., involving people in actual problem-solving to utilize and apply (said) data's usefulness. The companies hiring based on what employees seek (amongst others 'perks') from permanent work-from-home options to child care support to flex-time to up-skilling to better work-life balance, etc. based on the data verifying some of these quality of life issues either currently are and/or will be truly 'data-driven'.
 
 # Preliminary Work 
 
