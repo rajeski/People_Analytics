@@ -106,3 +106,19 @@ Examples include;
 3. Promotions - what tangible career advancement opportunities does the company offer?
 4. Management - has a toxic work environment been ignored, e.g., in the Sales, Technical and Support Departments?
 5. Incentives - (classic) carrot versus stick management, i.e., Sales (unrealistic targets); Technical (issues with product releases) and Support (are bugs and/or other issues being reported but ignored?) 
+
+Project Strengths: 
+
+1. Working in isolation without being influenced by any unintentional bias, e.g., caused by meeting or speaking with any given employee
+
+Project Weaknesses: 
+
+1. Conversely, working in isolation, i.e., just looking at the data 'clinically' could also not be without any challenges 
+
+Project Opportunities: 
+
+1. The enclosed findings offer an opportunity for this organization to not just conduct an audit but undertake an organizational change initiative
+
+Project Weaknesses: 
+
+1. Conversely, the enclosed findings could be seen as a threat by stakeholders resist to undertaking an organizational change initiative
