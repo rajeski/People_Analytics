@@ -124,3 +124,7 @@ Project Opportunities:
 Project Weaknesses: 
 
 1. Conversely, the enclosed findings could be seen as a threat by stakeholders resist to undertaking an organizational change initiative
+
+# Data Visualizations
+
+1. 
