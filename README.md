@@ -128,3 +128,4 @@ Project Weaknesses:
 # Data Visualizations
 
 1. <img width="1440" alt="Heatmap_Correlation_Matrix" src="https://user-images.githubusercontent.com/48130054/160407762-ee5dd4ca-31fb-43fd-83b2-07df6e53bbab.png">
+2. <img width="1440" alt="Avg_Monthly_Hours_Distribution" src="https://user-images.githubusercontent.com/48130054/160566602-11380c9f-c970-4da5-b463-8fb51421bb87.png">
