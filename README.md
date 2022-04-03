@@ -128,6 +128,6 @@ Project Weaknesses:
 # Data Visualizations
 
 1. <img width="1440" alt="Heatmap_Correlation_Matrix" src="https://user-images.githubusercontent.com/48130054/160407762-ee5dd4ca-31fb-43fd-83b2-07df6e53bbab.png"> (Displaying the values based on the color-shading and darkness). Note: The darkness, i.e., satisfaction and turnover.
-2. <img width="1440" alt="Avg_Monthly_Hours_Distribution" src="https://user-images.githubusercontent.com/48130054/160567336-402e1f2d-d106-4aa1-85a3-54dd17e3c33e.png"> (Displaying a bimodal data-distribution).
+2. <img width="1440" alt="Avg_Monthly_Hours_Distribution" src="https://user-images.githubusercontent.com/48130054/160567336-402e1f2d-d106-4aa1-85a3-54dd17e3c33e.png"> (Displaying a bimodal data-distribution). Addressing the polarity of too few versus too many hours and creating a better balance is an area to address and remedy.
 3. <img width="1440" alt="Emp_Satisfaction_Distribution" src="https://user-images.githubusercontent.com/48130054/161256029-85ef3159-aab0-4baf-8d3f-93474ea98088.png"> (Left-skewed data-distribution).
 4. <img width="1440" alt="Emp_Project_Distribution" src="https://user-images.githubusercontent.com/48130054/161301148-3cc2d5cf-70f8-4559-ab1e-722e96c0ddf8.png"> (Right-skewed data-distribution). Compare these two charts and their interrelationship, i.e., dynamic between projects and employee satisfaction. 
