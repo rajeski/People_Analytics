@@ -132,3 +132,4 @@ Project Weaknesses:
 3. <img width="1440" alt="Emp_Satisfaction_Distribution" src="https://user-images.githubusercontent.com/48130054/161256029-85ef3159-aab0-4baf-8d3f-93474ea98088.png"> (Left-skewed data-distribution).
 4. <img width="1440" alt="Emp_Project_Distribution" src="https://user-images.githubusercontent.com/48130054/161301148-3cc2d5cf-70f8-4559-ab1e-722e96c0ddf8.png"> (Right-skewed data-distribution). Compare these two charts and their interrelationship, i.e., dynamic between projects and employee satisfaction. 
 5. <img width="1440" alt="Project_Count" src="https://user-images.githubusercontent.com/48130054/161973927-51c9680c-8f24-453f-acf3-345756f8369d.png">(Project count visualization)
+6. <img width="1440" alt="Employee_Tenure" src="https://user-images.githubusercontent.com/48130054/162193359-614f330f-7b7f-46ea-811f-a3f6d1c0445a.png"> (Employee Turnover)
