@@ -133,4 +133,4 @@ Project Weaknesses:
 4. <img width="1440" alt="Emp_Project_Distribution" src="https://user-images.githubusercontent.com/48130054/161301148-3cc2d5cf-70f8-4559-ab1e-722e96c0ddf8.png"> (Right-skewed data-distribution). Compare these two charts and their interrelationship, i.e., dynamic between projects and employee satisfaction. 
 5. <img width="1440" alt="Project_Count" src="https://user-images.githubusercontent.com/48130054/161973927-51c9680c-8f24-453f-acf3-345756f8369d.png">(Project count visualization)
 6. <img width="1440" alt="Employee_Tenure" src="https://user-images.githubusercontent.com/48130054/162193359-614f330f-7b7f-46ea-811f-a3f6d1c0445a.png"> (Employee Turnover)
-7. <img width="1440" alt="Work_Accidents" src="https://user-images.githubusercontent.com/48130054/162576232-8908108e-98f2-41c1-9771-9c33b7b0321b.png"> (Work Accidents)
+7. <img width="1440" alt="Work_Accidents" src="https://user-images.githubusercontent.com/48130054/162576232-8908108e-98f2-41c1-9771-9c33b7b0321b.png"> (Work Accidents) Note: Briefly, one out of six employees, i.e., just under 17% are involved in an on-site work accident.
