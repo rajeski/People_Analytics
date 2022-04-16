@@ -138,7 +138,20 @@ Project Weaknesses:
 9. <img width="1440" alt="Salary_Turnover" src="https://user-images.githubusercontent.com/48130054/163183044-772cc53a-bcc9-4c4b-9434-075c5197dc3f.png"> (Employee Salary to Turnover) Note: This goes without saying and no matter how 'obviousness' this may seem, the importance of emphasizing this reality cannot be overstated, i.e., economic-determination is a fundamental reason 'why' people work!
 10. <img width="1440" alt="Salary_Attrition" src="https://user-images.githubusercontent.com/48130054/163183957-e10a5404-0d2b-4d90-9de3-db45d9afbdf6.png"> (Employee Salary to Attrition by Tenure) Year 3 and Year 2 across all salary-ranges seems to be problematic for this organization. 
 11. (Departmental Turnover)
-12.
-13.
-14.
-15.
+12. (Employee Project Count to Turnover)
+13. (Employee Evaluation to Turnover)
+14. (Average Employee Monthly Hours to Turnover)
+15. (Employee Satisfaction to Turnover)
+16. (Employee Turnover to Tenure)
+17. (Employee Work Accidents to Turnover)
+18. (Employee Promotion to Turnover)
+19. (Employee Project Count to Evaluation
+20. (Project Count to Average Monthly Hours)
+21. (Employee Satisfaction to Evaluation)
+22. (Employee Turnover Cluster)
+
+Data Modeling - 
+
+23. (ROC Graph) 
+24. (Feature Importance by Decision Tree Classifier) 
+
