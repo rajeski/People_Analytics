@@ -39,7 +39,7 @@ Employee Satisfaction, Years At Company, Evaluation are/were the biggest factors
 
 Suggestions: 
 
-Utilize the Kirkpatrick Evaluation Model as part of conducting a Root-cause Analysis 
+Utilize the Kirkpatrick Evaluation Model as part of conducting a Root-cause Analysis - 
 
 1. Reaction - Conduct a company-wide survey of all employees
 2. Learning - Based on the survey's results implement on-the-job training aimed at reducing attrition rates
@@ -59,15 +59,15 @@ Areas to address include:
 
 # Libraries: 
 
-Matplotlib (data visualizations)
+Matplotlib (Data Visualizations)
 
-Numpy (mathematics)
+Numpy (Mathematics)
 
-Pandas (data analysis)
+Pandas (Data Analysis)
 
-Seaborn (data visualization)
+Seaborn (Data Visualization)
 
-Scikit-learn (predictive analysis)
+Scikit-learn (Predictive Analysis)
 
 # References: 
 
@@ -102,10 +102,10 @@ Reason why these findings (unfortunately) are unsurprising.
 Examples include; 
 
 1. Compensation - examining pay-disparities (what are they?) 
-2. Mentorship - are new employees assigned tenured staff to help them to become long-term / successful employees?
-3. Promotions - what tangible career advancement opportunities does the company offer?
-4. Management - has a toxic work environment been ignored, e.g., in the Sales, Technical and Support Departments?
-5. Incentives - (classic) carrot versus stick management, i.e., Sales (unrealistic targets); Technical (issues with product releases) and Support (are bugs and/or other issues being reported but ignored?) 
+2. Mentorship - are new employees assigned tenured staff to help them to become long-term / successful employees? If, so what is the cost-benefit analysis of this 'initiative'? If not, again, what is the cost-benefit analysis of not implementing this initiative?
+3. Promotions - what tangible career advancement opportunities does the company offer? How are these structured? What are the mechanisms for enacting them and ensuring they are implemented as objectively as possible?
+4. Management - has a toxic work environment been ignored, e.g., in the Sales, Technical and Support Departments? If so, why has this happened and what are the root-causes, i.e., nepotism, etc.? 
+5. Incentives - (classic) carrot versus stick management, i.e., Sales (unrealistic targets); Technical (issues with product releases and not listening to End-user feedback, etc.) and Support (are bugs and/or other issues being reported but ignored?) 
 
 # SWOT Analysis 
 
@@ -123,7 +123,7 @@ Project Opportunities:
 
 Project Weaknesses: 
 
-1. Conversely, the enclosed findings could be seen as a threat by stakeholders resist to undertaking an organizational change initiative
+1. Conversely, the enclosed findings could be seen as a threat by stakeholders resistant to undertaking an organizational change initiative
 
 # Data Visualizations
 
@@ -154,4 +154,3 @@ Project Weaknesses:
 
 23. (ROC Graph) 
 24. (Feature Importance by Decision Tree Classifier) 
-
