@@ -139,7 +139,7 @@ Project Weaknesses:
 10. <img width="1440" alt="Salary_Attrition" src="https://user-images.githubusercontent.com/48130054/163183957-e10a5404-0d2b-4d90-9de3-db45d9afbdf6.png"> (Employee Salary to Attrition by Tenure) From the lowest to the highest salary-ranges, Year 3 and Year 2 seems to be problematic for this organization. Related to the above points; is this attributed to project-count and/or employee / stakeholder engagement (or lack thereof?) 
 11. <img width="1440" alt="Depart_Turnover" src="https://user-images.githubusercontent.com/48130054/164189079-5602552a-4067-461d-aa01-bb97a353b68f.png"> (Departmental Turnover) Again, look at the three areas of highest employee turnover (Sales; Technical and Support) versus the lowest (Management) and it is clearly evident these three departments are problematic.
 12. <img width="1440" alt="Emp_Pro_Turnover" src="https://user-images.githubusercontent.com/48130054/164244752-c7567bb7-5e6a-45ab-a9f2-889d331191cd.png"> Project count to turnover, what is driving this? Workload; lack of support; expectations; limited resources; poor management? This area alone warrants closer examination. (Employee Project Count to Turnover)
-13. (Employee Evaluation to Turnover)
+13. <img width="1440" alt="Emp_Ev_Turnover" src="https://user-images.githubusercontent.com/48130054/164246357-83c52b67-e50f-44d8-852f-27a0207bed76.png"> (Employee Evaluation to Turnover)
 14. (Average Employee Monthly Hours to Turnover)
 15. (Employee Satisfaction to Turnover)
 16. (Employee Turnover to Tenure)
