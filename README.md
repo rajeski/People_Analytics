@@ -141,14 +141,13 @@ Project Weaknesses:
 12. <img width="1440" alt="Emp_Pro_Turnover" src="https://user-images.githubusercontent.com/48130054/164244752-c7567bb7-5e6a-45ab-a9f2-889d331191cd.png"> Project count to turnover, what is driving this? Workload; lack of support; expectations; limited resources; poor management? This area alone warrants closer examination. (Employee Project Count to Turnover)
 13. <img width="1440" alt="Emp_Ev_Turnover" src="https://user-images.githubusercontent.com/48130054/164246357-83c52b67-e50f-44d8-852f-27a0207bed76.png"> Lowest (i.e., decreased opportunities; poor management; working conditions, etc.?) and highest (increased opportunities; better management; working conditions, etc.?) employee evaluations result in the greatest turnover. (Employee Evaluation to Turnover)
 14. <img width="1440" alt="A_E_Hrs_Turnover" src="https://user-images.githubusercontent.com/48130054/164471224-b686da19-3f4e-48fa-8c64-e5bc2fff4250.png"> Note: Underutilization, i.e., not enough hours and over-utilization, i.e., too many hours result in the two main polarities within this category. (Average Employee Monthly Hours to Turnover)
-15. <img width="1440" alt="Emp_Turnover_Ten" src="https://user-images.githubusercontent.com/48130054/165034410-8d688858-4049-4a24-a12e-e9ebc645feb6.png">(Employee Satisfaction to Turnover)
-16. (Employee Turnover to Tenure)
-17. (Employee Work Accidents to Turnover)
-18. (Employee Promotion to Turnover)
-19. (Employee Project Count to Evaluation
-20. (Project Count to Average Monthly Hours)
-21. (Employee Satisfaction to Evaluation)
-22. (Employee Turnover Cluster)
+15. <img width="1440" alt="Emp_Turnover_Ten" src="https://user-images.githubusercontent.com/48130054/165034410-8d688858-4049-4a24-a12e-e9ebc645feb6.png">(Employee Turnover to Tenure)
+16. (Employee Work Accidents to Turnover)
+17. (Employee Promotion to Turnover)
+18. (Employee Project Count to Evaluation
+19. (Project Count to Average Monthly Hours)
+20. (Employee Satisfaction to Evaluation)
+21. (Employee Turnover Cluster)
 
 # Data Modeling - 
 
@@ -156,3 +155,4 @@ Project Weaknesses:
 24. (Feature Importance by Decision Tree Classifier) 
 
 # End
+(Employee Satisfaction to Turnover)
