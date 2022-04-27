@@ -142,7 +142,7 @@ Project Weaknesses:
 13. <img width="1440" alt="Emp_Ev_Turnover" src="https://user-images.githubusercontent.com/48130054/164246357-83c52b67-e50f-44d8-852f-27a0207bed76.png"> Lowest (i.e., decreased opportunities; poor management; working conditions, etc.?) and highest (increased opportunities; better management; working conditions, etc.?) employee evaluations result in the greatest turnover. (Employee Evaluation to Turnover)
 14. <img width="1440" alt="A_E_Hrs_Turnover" src="https://user-images.githubusercontent.com/48130054/164471224-b686da19-3f4e-48fa-8c64-e5bc2fff4250.png"> Note: Underutilization, i.e., not enough hours and over-utilization, i.e., too many hours result in the two main polarities within this category. (Average Employee Monthly Hours to Turnover)
 15. <img width="1440" alt="Emp_Turnover_Ten" src="https://user-images.githubusercontent.com/48130054/165034410-8d688858-4049-4a24-a12e-e9ebc645feb6.png">(Employee Turnover to Tenure)
-16. <img width="1440" alt="Emp_WA_Turnover" src="https://user-images.githubusercontent.com/48130054/165322212-c55def46-ce26-4b1a-9bfb-329ec7df6fa8.png"> (Employee Work Accidents to Turnover)
+16. <img width="1440" alt="Emp_WA_Turnover" src="https://user-images.githubusercontent.com/48130054/165322212-c55def46-ce26-4b1a-9bfb-329ec7df6fa8.png"> Whether no accidents and/or one accident, non-Management turnover is significantly higher than Management turnover and could be attributable to the data and supporting details provided above. (Employee Work Accidents to Turnover)
 17. (Employee Promotion to Turnover)
 18. (Employee Project Count to Evaluation
 19. (Project Count to Average Monthly Hours)
