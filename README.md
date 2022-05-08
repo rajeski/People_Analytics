@@ -160,4 +160,4 @@ Project Weaknesses:
 
 # Misc. - 
 
-26. Dummy, i.e., Test Data Variables 
+26. <img width="1440" alt="Dummy_Var" src="https://user-images.githubusercontent.com/48130054/167287899-da317c3a-aa48-4c5b-a34b-b7346a4f320c.png"> (Dummy, i.e., Test Data Variables)
