@@ -152,6 +152,6 @@ Project Weaknesses:
 # Data Modeling - 
 
 23. <img width="1440" alt="ROC_Graph" src="https://user-images.githubusercontent.com/48130054/167287495-5e0251c6-860d-499e-b891-809a24b55ebc.png">Checking for false-positive rates. (ROC Graph) 
-24. Employee Satisfaction, Years At Company, Evaluation are the biggest factors regarding staff turnover. (Feature Importance by Decision Tree Classifier) 
+24. <img width="1440" alt="Dec_Tree_Class" src="https://user-images.githubusercontent.com/48130054/167287568-9e4c8668-79dc-4283-ba3e-fede2434820e.png">Employee Satisfaction, Years At Company, Evaluation are the biggest factors regarding staff turnover. (Feature Importance by Decision Tree Classifier) 
 
 # End
