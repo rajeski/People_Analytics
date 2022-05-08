@@ -156,4 +156,8 @@ Project Weaknesses:
 
 # Conclusions - 
 
-25. <img width="1440" alt="Conclusions" src="https://user-images.githubusercontent.com/48130054/167287706-b03104ba-d2d4-469a-819e-23043cde83b6.png"> Conclusions (Embedded Jupyter Notebook)
+25. <img width="1440" alt="Conclusions" src="https://user-images.githubusercontent.com/48130054/167287846-650ee595-959f-40ae-9489-9359d241c4d5.png"> Conclusions (Embedded Jupyter Notebook)
+
+# Misc. - 
+
+26. Dummy, i.e., Test Data Variables 
