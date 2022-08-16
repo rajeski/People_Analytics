@@ -1,5 +1,7 @@
 # People Analytics, Human Resources Turnover
 
+"Human Resource analytics (HR analytics) is an area in the field of analytics that refers to applying analytic processes to the human resource department of an organization in the hope of improving employee performance and therefore getting a better return on investment. HR analytics does not just deal with gathering data on employee efficiency. Instead, it aims to provide insight into each process by gathering data and then using it to make relevant decisions about how to improve these processes" - Techopedia.
+
 # Mindset
 
 1. Regardless of how 'data-centric' or 'data-driven' any given organization may claim to be, data is only as insightful as the willingness to look at it as objectively as possible, i.e., if management asserts anything along the lines of, "this is way we have always done things around here" and/or "while so-and-so may be rough around the edges, they are a top-performer and cannot be replaced", etc., it should give pause the forces of institutional-inertia are likely entrenched. And, depending on how deeply-entrenched, they might just make the resulting 'data' or findings moot.
